@@ -75,7 +75,7 @@ To view the website locally, follow these steps:
 
 1. **Open the Project Folder:**
    - Download or clone the repository.
-   - Open the `health-website-main` folder.
+   - Open the `health-care-2` folder.
 2. **Open in Browser:**
    - Double-click `index.html` or right-click and choose "Open With" → your browser.
 3. **(Optional) Run a Local Server:**
