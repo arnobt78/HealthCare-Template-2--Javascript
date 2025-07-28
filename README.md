@@ -1,5 +1,7 @@
 # Health Care - Javascript Website Template (Design-2)
 
+<img width="1421" height="701" alt="Screenshot 2025-07-28 at 17 30 18" src="https://github.com/user-attachments/assets/30d4a466-ddc0-472b-b4fc-6b8f422a6c7f" /> <img width="1178" height="807" alt="Screenshot 2025-07-28 at 17 31 03" src="https://github.com/user-attachments/assets/e8f17155-ce35-41a1-909c-f7c0a2d8a655" /> <img width="1181" height="874" alt="Screenshot 2025-07-28 at 17 31 26" src="https://github.com/user-attachments/assets/1c21f880-11ef-4c17-b21c-32d785543764" />
+
 ---
 
 ## Project Summary
